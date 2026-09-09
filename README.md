@@ -1,2 +1,4 @@
 # NGO-Research-Data-Collection
-Research and data collection of 10 NGOs working in different social sectors in India.
+Research and data collection of 10 NGOs working in different social sectors in
+in india
+🎊 Task 1 – NGO Research & Data Collection 📊🔍  I am happy to share that I have successfully completed my first task with InAmigos Foundation.  For this task, I researched and collected information about 10 NGOs working in India across different social sectors, including:  📚 Education 👩‍💼 Women Empowerment 🏥 Healthcare 🐾 Animal Welfare 🌱 Environmental Conservation 🤝 Rural Development  The information was organized in an Excel sheet covering: • NGO Name • Official Website • Area of Work • Headquarters • Key Initiatives  This task helped me improve my research, data collection, analysis, and data organization skills and gave me a better understanding of the valuable work being done by NGOs across India.  Thank you InAmigos Foundation for providing this opportunity to learn through practical tasks. 🙌✨ 
